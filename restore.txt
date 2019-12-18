@@ -1,0 +1,11 @@
+$2y$10$jorb5DEjiZ3hGIJkbJ.WQ.ZhTJ1ld.Pe7jd69jZWuYwa7JLzmagCu
+
+
+Web:   item/restore    Controller@Restorefunction()
+
+Controller:     
+	make: Restorefunction();
+
+	tableFunction:    $deleted_awesomeservicerights = Awesomeserviceright  AND  Compact
+
+Table.Blade.php: Add table View:
